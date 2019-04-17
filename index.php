@@ -14,8 +14,8 @@
         </script>
     </head>
     <body>
-        <div id="full">
-            <div style="background-image: url('img/f1.jpeg'); background-size:100%; width:100%; height: 600px;background-repeat: no;">
+        <div id="full" style="margin-left:-8px">
+            <div style="background-image: url('img/f1.jpeg'); background-size:100%; width:101.2%;margin:0 auto; height: 600px;background-repeat: no;margin-top:-10px;">
             <div id="header">
                 <div id="logo">
                     <h1><font color="white" style="font-family:algerian,Comic Sans MS; font-weight: bold; font-size:50px; padding-left:10px; word-spacing:3px; letter-spacing:2px;">The Sunrise</font></h1>
@@ -36,7 +36,7 @@
             
             </div>
              <div id="f1" style="background:#002db3; font-family:Comic Sans MS; font-weight: bold; font-size:20px; color:white;">
-                 <form action="" method="post"></form>
+                 <form action="" method="post">
                  <center><table>
                      <tr>
                          <th width="20%" height="50px" style="font-color: white;">Destination</th>
@@ -96,6 +96,7 @@
                     </center>
                 </div>
             </div>
+    
         </div>
     </body>
 </html>
