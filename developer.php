@@ -24,7 +24,7 @@
                  <div id="nav" style=" font-size:20px; font-weight: bold;">
                     
                     <ul>
-                        <li style="font-family:algerian; font-size:25px; float:right;"><a href="index.php">Click</a></li>
+                        <li style="font-family:algerian; font-size:25px; float:right;"><a href="index.php">Back to HOME!!</a></li>
                        
                     </ul>
                 </div>
