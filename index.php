@@ -29,6 +29,7 @@
                         <li><a href="bms.php">Book My Stay</a></li>
                         <li><a href="r1.php">Our Hotel</a></li>
                         <li><a href="feedback.php">Comment</a></li>
+                        <li><a href="developer.php">Developers</a></li>
                     </ul>
                 </div>
             </div>
